@@ -1675,3 +1675,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+		.partnership-section p {
+			margin-bottom:8px;
+		}
