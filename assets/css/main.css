@@ -111,6 +111,10 @@ input, select, textarea {
 
 /* Type */
 
+	.justify-text {
+		text-align: justify;
+	}
+
 	html {
 		font-size: 16pt;
 	}
