@@ -73,6 +73,9 @@ input, select, textarea {
 }
 
 /* Basic */
+	.justify-text {
+		text-align: justify;
+	}
 
 	@-ms-viewport {
 		width: device-width;
@@ -111,9 +114,7 @@ input, select, textarea {
 
 /* Type */
 
-	.justify-text {
-		text-align: justify;
-	}
+	
 
 	html {
 		font-size: 16pt;
