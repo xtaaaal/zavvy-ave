@@ -711,7 +711,7 @@ input, select, textarea {
 
 			.image.partnership-logo {
 				display: block;
-				margin: 2.5rem 0;
+				margin: 15px 0;
 				width: 180px;
 				
 			  }
@@ -1679,6 +1679,15 @@ input, select, textarea {
 
 		body.is-preload #footer {
 			opacity: 0;
+		}
+
+		.partnership-section {
+			padding-top: 25px;
+			padding-bottom:50px;
+			border-bottom: #ffffff 1px solid;
+		}
+		.partnership-section.no-border {
+			border-bottom: none;
 		}
 
 		.partnership-section p {
